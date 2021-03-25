@@ -1,0 +1,265 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family:;
+}
+body{
+		background-image:url();
+		background-position:center;
+		background-size:;
+		margin-top:;
+	
+	}
+	.form{
+		width:300px;
+		background-color:rgb(0,0,0,0);
+		margin:auto;
+		color:#FFFFFF;
+		padding:10px 0px 10px 0px;
+		text-align:;
+		border-radius:10px 15px 0px 0px;
+		}
+		
+	.name1{
+		background-color:rgb(36,36,36);
+		width:500px;
+		margin:auto;
+			}
+			
+	form{
+		padding:10px;
+	}
+	#name{
+		width:100%;
+		heigth:50px;
+	}
+	.name{
+		margin-left:25px;
+		margin-top:100px;
+		width:125px;
+		color:white;
+		font-size:20px;
+		font-weight:300;
+	}
+	.firstname{
+		position:relative;
+		left:200px;
+		top:-22px;
+		line-height:20px;
+		border-radius:10px;
+		padding:Spx;
+		font-size:15px;
+	}
+	
+	#middle{
+		width:100%;
+		heigth:100px;
+	}
+	.middle{
+		margin-left:25px;
+		margin-top:30px;
+		width:125px;
+		color:white;
+		font-size:30px;
+		font-weight:700;
+	}
+	.middlename{
+		position:relative;
+		left:200px;
+		top:-60px;
+		line-height:40px;
+		border-radius:6px;
+		padding:0 22px;
+		font-size:16px;
+	}
+	
+	
+	#last{
+		width:100%;
+		heigth:100px;
+	}
+	.last{
+		margin-left:25px;
+		margin-top:10px;
+		width:125px;
+		color:white;
+		font-size:20px;
+		font-weight:300;
+	}
+	.lastname{
+		position:relative;
+		left:200px;
+		top:-25px;
+		line-height:20px;
+		border-radius:10px;
+		padding:px;
+		font-size:15px;
+	}
+	
+	
+	#age{
+		width:100%;
+		heigth:100px;
+	}
+	.age{
+		margin-left:25px;
+		margin-top:15px;
+		width:125px;
+		color:white;
+		font-size:20px;
+		font-weight:300;
+	}
+	.age7{
+		position:relative;
+		left:200px;
+		top:-35px;
+		line-height:20px;
+		border-radius:10px;
+		padding:px;
+		font-size:15px;
+	}
+	
+	#dob{
+		width:100%;
+		heigth:100px;
+	}
+	.dob{
+		margin-left:25px;
+		margin-top:10px;
+		width:px;
+		color:white;
+		font-size:20px;
+		font-weight:300
+		}
+	
+	.month{
+		position:relative;
+		left:200px;
+		top:-28px;
+		line-height:39px;
+		width:75px;
+		heigth:40px;
+		border-radius:6px;
+		padding:0px;
+		font-size:16px;
+		color: #555;
+		outline:none;
+		overflow:hidden;
+	}
+	
+	.day{
+		position:relative;
+		left:200px;
+		top:-28px;
+		line-height:40px;
+		width:60x;
+		heigth:40px;
+		border-radius:6px;
+		padding:px;
+		font-size:16px;
+		color: #555;
+		outline:none;
+		overflow:hidden;
+	}
+	
+	.year{
+		position:relative;
+		left:200px;
+		top:-28px;
+		line-height:40px;
+		width:75px;
+		heigth:40px;
+		border-radius:6px;
+		padding:px;
+		font-size:16px;
+		color: #555;
+		outline:none;
+		overflow:hidden;
+	}
+	
+	
+	#email{
+		width:100%;
+		heigth:100px;
+	}
+	.email{
+		margin-left:25px;
+		margin-top:60px;
+		width:125px;
+		color:white;
+		font-size:20px;
+		font-weight:300;
+	}
+	.email1{
+		position:relative;
+		left:-15px;
+		top:19px;
+		line-height:20px;
+		border-radius:10px;
+		padding:px;
+		font-size:15px;
+	}
+	
+	#code{
+		width:100%;
+		heigth:100px;
+	}
+	.code{
+		margin-left:25px;
+		margin-top:30px;
+		width:125px;
+		color:white;
+		font-size:20px;
+		font-weight:300;
+	}
+	.code2{
+		position:relative;
+		left:200px;
+		top:-25px;
+		line-height:20px;
+		border-radius:10px;
+		padding:px;
+		font-size:15px;
+	}
+	
+	#home{
+		width:100%;
+		heigth:100px;
+	}
+	.home{
+		margin-left:25px;
+		margin-top:30px;
+		width:125px;
+		color:white;
+		font-size:30px;
+		font-weight:700;
+	}
+	.address{
+		position:relative;
+		left:200px;
+		top:-60px;
+		line-height:40px;
+		border-radius:6px;
+		padding:0 22px;
+		font-size:16px;
+	}
+	
+	button{
+		background-color:#6fbbd3;
+		
+		display:block;
+		margin:50px 0px 0px 115px;
+		font-size:16px;
+		
+		border:2px solid #366473;
+		padding:14px 100px;
+		outline:none;
+		color:white;
+		cursor:pointer;
+		transition:0.50px
+	}
+	button:hover{
+		background-color:#0083f4;
+	}
+	
+	
