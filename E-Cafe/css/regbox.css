@@ -1,0 +1,150 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: sans-serif;
+}
+.logbox{
+	width: 190px;
+	height: 120px;
+	background:rgba(255,0,0,0);
+	margin-left:50px;
+	margin-top:-300px;
+	padding: 50px 50px;
+	color: #fff;
+	box-shadow: 0 0 20px 2px rgba(0,0,0,0,5);
+	border-radius: 30px;
+
+}
+.acc{
+	color:#242526;
+	text-align:center;
+	margin-top:-20px;
+}
+.logbox ul{
+	 display:x;
+	 list-style: none;
+	 color: #fff;
+}
+.logbox ul li{
+	 width:120px;
+	 padding:15px;
+	 margin:15px;
+	 margin-top:15px;
+	 background-color:#242526;
+	 border-radius: 10px;
+}
+.logbox ul li a{
+	 text-decoration: none;
+	 color:#fff;
+	 background-color:;
+ }
+ .logbox .fa{
+	 margin-right: 8px;
+ }
+ .active1, .logbox ul li:hover{
+	 background: #242526;
+	 border-radius: 30px;
+ }
+ 
+.followbox{
+	width: 190px;
+	height: 200px;
+	background-color:#fff;
+	margin-left:900px;
+	margin-top:390px;
+	padding: 50px 50px;
+	color: #fff;
+	box-shadow: 0 0 20px 2px rgba(0,0,0,0,5);
+	border-radius: 30px;
+
+}
+.followbox ul{
+	 display:x;
+	 list-style: none;
+	 color: #fff;
+}
+.followbox ul li{
+	 width:120px;
+	 padding:15px;
+	 margin:15px;
+	 margin-top:15px;
+	 background-color:#242526;
+	 border-radius: 10px;
+}
+.followbox ul li a{
+	 text-decoration: none;
+	 color:#fff;
+	 background-color:;
+ }
+ .followbox .fa{
+	 margin-right: 8px;
+	 
+ }
+ .active1, .followbox ul li:hover{
+	 background: #616161;
+	 border-radius: 30px;
+ }
+.annbox{
+	width: 400px;
+	height: 700px;
+	background:#242526;
+	margin-left:300px;
+	margin-top:-410px;
+	padding: 50px 50px;
+	color: #fff;
+	box-shadow: 0 0 20px 2px rgba(0,0,0,0,5);
+	border-radius: 30px;
+
+}
+.well{
+	text-align:center;
+	color:#242526;
+}
+.wel{
+	margin-top:50px;
+	color:#242526;
+}
+.welann{
+	text-align:center;
+	margin-top:60px;
+	color:#242526;
+}
+.eventbox{
+	width: 190px;
+	height: 200px;
+	background-color:#fff;
+	margin-left:1000px;
+	margin-top:-1100px;
+	padding: 50px 50px;
+	color: #fff;
+	box-shadow: 0 0 20px 2px rgba(0,0,0,0,5);
+	border-radius: 30px;
+
+}
+.eventbox ul{
+	 display:x;
+	 list-style: none;
+	 color: #fff;
+}
+.eventbox ul li{
+	 width:120px;
+	 padding:15px;
+	 margin:15px;
+	 margin-top:15px;
+	 background-color:#242526;
+	 border-radius: 10px;
+}
+.eventbox ul li a{
+	 text-decoration: none;
+	 color:#fff;
+	 background-color:;
+ }
+ .eventbox .fa{
+	 margin-right: 8px;
+ }
+ .active1, .eventbox ul li:hover{
+	 background: #616161;
+	 border-radius: 30px;
+ }
